@@ -32,6 +32,15 @@
     },
     {
       "position": [
+        0,
+        0,
+        0
+      ],
+      "physics": true,
+      "start_url": "https://webaverse.github.io/grid/grid.glb"
+    },
+    {
+      "position": [
         -26,
         0,
         -2
@@ -47,19 +56,10 @@
     {
       "position": [
         0,
-        0,
-        0
+        1,
+        -1
       ],
       "start_url": "https://hamslice3000.github.io/BaseWebaverseScn/DEGO_Export_03NLA.glb"
-    },
-    {
-      "position": [
-        0,
-        0,
-        0
-      ],
-      "physics": true,
-      "start_url": "https://webaverse.github.io/grid/grid.glb"
     }
-	]
+ ]
 }
