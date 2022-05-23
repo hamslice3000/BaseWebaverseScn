@@ -37,8 +37,9 @@
         0
       ],
       "physics": true,
-      "start_url": "https://hamslice3000.github.io/BaseWebaverseScn/HamsliceFloorScale10.glb"
-    },
+      "start_url": "https://webaverse.github.io/block/grid.glb",
+      "dynamic": false
+    }
     {
       "position": [
         -26,
