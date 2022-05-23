@@ -36,6 +36,11 @@
         -5,
         0
       ],
+	  "scale": [
+        10,
+        1,
+        10
+      ],
       "physics": true,
       "start_url": "https://hamslice3000.github.io/BaseWebaverseScn/HamsliceFloorScale10.glb"
     },
