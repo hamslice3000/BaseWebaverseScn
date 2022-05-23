@@ -33,11 +33,11 @@
     {
       "position": [
         0,
-        -3,
+        -5,
         0
       ],
       "physics": true,
-      "start_url": ""https://hamslice3000.github.io/BaseWebaverseScn/HamsliceFloorScale10.glb",
+      "start_url": ""https://hamslice3000.github.io/BaseWebaverseScn/HamsliceFloorScale30.glb",
       "dynamic": false
     }
     {
