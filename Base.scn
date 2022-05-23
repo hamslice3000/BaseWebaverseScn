@@ -33,11 +33,11 @@
     {
       "position": [
         0,
-        0,
+        -.5,
         0
       ],
       "physics": true,
-      "start_url": "https://hamslice3000.github.io/BaseWebaverseScn/HamsliceFloorScale100.glb"
+      "start_url": "https://hamslice3000.github.io/BaseWebaverseScn/HamsliceFloorScale30.glb"
     },
     {
       "position": [
@@ -56,7 +56,7 @@
     {
       "position": [
         0,
-        1,
+        .1,
         -1
       ],
       "start_url": "https://hamslice3000.github.io/BaseWebaverseScn/DEGO_Export_03NLA.glb"
