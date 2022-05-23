@@ -33,7 +33,7 @@
     {
       "position": [
         0,
-        -2,
+        -5,
         0
       ],
       "physics": true,
@@ -43,7 +43,7 @@
       "position": [
         -26,
         0,
-        -5
+        -2
       ],
       "quaternion": [
         0,
